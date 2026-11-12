@@ -14,14 +14,14 @@ Class limits,Class boundaries,Midpoint,Frequency (f),Relative frequency,Percenta
 Total,,,40,1.000,100.0%,
 
 (b) Histogram and mode
-Fig. 1: Histogram of reaction times (chart image – see Excel file)
+Fig. 1: Histogram of reaction times (chart in Excel file)
 Modal class 10.35 – 12.55;  Mode = 10.35 + [5 ÷ (5 + 8)] × 2.2 = 11.20
 Answer: Mode ≈ 11.2 minutes
 (c) Cumulative frequency curve (ogive)
-Less than,3.75,5.95,8.15,10.35,12.55,14.75,16.95
+Less than (upper boundary),3.75,5.95,8.15,10.35,12.55,14.75,16.95
 Cumulative frequency,0,2,6,16,31,38,40
 
-Fig. 2: Ogive of reaction times (chart image – see Excel file)
+Fig. 2: Ogive of reaction times (chart in Excel file)
 Within 10 min: 6 + [(10 − 8.15) ÷ 2.2] × 10 ≈ 14.4 patients → 14.4 ÷ 40 = 36%.   Median: n/2 = 20 → 10.35 + [(20 − 16) ÷ 15] × 2.2 ≈ 10.94
 Answer: About 36% of patients reacted within 10 minutes (raw data: 15 of 40 = 37.5%)
 Answer: Median ≈ 10.9 minutes
@@ -37,7 +37,7 @@ Food,20,0.20,72
 Transportation,15,0.15,54
 Total,100,1.00,360
 
-Fig. 3: Pie chart of consumer spending (chart image – see Excel file)
+Fig. 3: Pie chart of consumer spending (chart in Excel file)
 (ii) Largest piece of the pie
 Answer: Housing — 40% of income (144°)
 
@@ -58,9 +58,9 @@ Class,Class boundaries,Midpoint,Frequency (f),Cumulative frequency,Relative freq
 Total,,,66,,100.0%
 
 (ii) Histogram and frequency polygon
-Fig. 4: Histogram and frequency polygon (chart image – see Excel file)
+Fig. 4: Histogram and frequency polygon (chart in Excel file)
 (iii) Cumulative frequency polygon (ogive)
-Fig. 5: Cumulative frequency polygon (chart image – see Excel file)
+Fig. 5: Cumulative frequency polygon (chart in Excel file)
 (iv) Countries with birth rate ≥ 15
 Below 14.5 = 11 countries → 66 − 11 = 55 countries;  55 ÷ 66 = 83.3%
 "Answer: 83.3% of the countries have a birth rate of 15 or more per 1,000"
@@ -109,9 +109,9 @@ Africa,17,1.2%,100.0%
 Total,"1,455",100.0%,
 
 Pareto chart
-Fig. 6: Pareto chart (chart image – see Excel file)
+Fig. 6: Pareto chart (chart in Excel file)
 Horizontal bar graph
-Fig. 7: Horizontal bar graph (chart image – see Excel file)
+Fig. 7: Horizontal bar graph (chart in Excel file)
 
 Question 6: Popular Vehicle Colours
 Colour,Percentage,Proportion,Sector angle (°)
@@ -124,7 +124,7 @@ Grey,12,0.12,43.2
 Other,10,0.10,36.0
 Total,100,1.00,360.0
 
-Fig. 8: Pie graph of vehicle colours (chart image – see Excel file)
+Fig. 8: Pie graph of vehicle colours (chart in Excel file)
 
 Question 7: Choosing the Appropriate Graph
 ,Situation,Most appropriate graph
