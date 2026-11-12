@@ -1,0 +1,167 @@
+﻿ASSIGNMENT 2 – Descriptive Statistics Solutions
+Student ID: 23780491,Programme: BA Economics,Date: 11/11/2026
+
+Question 1: Reaction Times to Bee Stings
+(a) Relative frequency distribution (6 classes)
+Range = 16.5 − 3.8 = 12.7;  class width = 12.7 ÷ 6 ≈ 2.12 → 2.2;  first class starts at 3.8;  n = 40
+Class limits,Class boundaries,Midpoint,Frequency (f),Relative frequency,Percentage,Cumulative frequency
+3.8 – 5.9,3.75 – 5.95,4.85,2,0.050,5.0%,2
+6.0 – 8.1,5.95 – 8.15,7.05,4,0.100,10.0%,6
+8.2 – 10.3,8.15 – 10.35,9.25,10,0.250,25.0%,16
+10.4 – 12.5,10.35 – 12.55,11.45,15,0.375,37.5%,31
+12.6 – 14.7,12.55 – 14.75,13.65,7,0.175,17.5%,38
+14.8 – 16.9,14.75 – 16.95,15.85,2,0.050,5.0%,40
+Total,,,40,1.000,100.0%,
+
+(b) Histogram and mode
+Fig. 1: Histogram of reaction times (chart image – see Excel file)
+Modal class 10.35 – 12.55;  Mode = 10.35 + [5 ÷ (5 + 8)] × 2.2 = 11.20
+Answer: Mode ≈ 11.2 minutes
+(c) Cumulative frequency curve (ogive)
+Less than,3.75,5.95,8.15,10.35,12.55,14.75,16.95
+Cumulative frequency,0,2,6,16,31,38,40
+
+Fig. 2: Ogive of reaction times (chart image – see Excel file)
+Within 10 min: 6 + [(10 − 8.15) ÷ 2.2] × 10 ≈ 14.4 patients → 14.4 ÷ 40 = 36%.   Median: n/2 = 20 → 10.35 + [(20 − 16) ÷ 15] × 2.2 ≈ 10.94
+Answer: About 36% of patients reacted within 10 minutes (raw data: 15 of 40 = 37.5%)
+Answer: Median ≈ 10.9 minutes
+
+Question 2: How the Consumer Dollar Is Spent
+(i) Pie chart (sector angle = % × 3.6°)
+Category,Percentage of income,Proportion,Sector angle (°)
+Medical Care,5,0.05,18
+Clothing,15,0.15,54
+Entertainment,5,0.05,18
+Housing,40,0.40,144
+Food,20,0.20,72
+Transportation,15,0.15,54
+Total,100,1.00,360
+
+Fig. 3: Pie chart of consumer spending (chart image – see Excel file)
+(ii) Largest piece of the pie
+Answer: Housing — 40% of income (144°)
+
+"Question 3: Birth Rates per 1,000 Population"
+"Note: the question says 60 countries, but the data table lists 66 values. All 66 values are used."
+"(i) Frequency distribution (lower limit 10, interval 5)"
+Class,Class boundaries,Midpoint,Frequency (f),Cumulative frequency,Relative frequency
+10 – 14,9.5 – 14.5,12,11,11,16.7%
+15 – 19,14.5 – 19.5,17,20,31,30.3%
+20 – 24,19.5 – 24.5,22,9,40,13.6%
+25 – 29,24.5 – 29.5,27,5,45,7.6%
+30 – 34,29.5 – 34.5,32,10,55,15.2%
+35 – 39,34.5 – 39.5,37,4,59,6.1%
+40 – 44,39.5 – 44.5,42,4,63,6.1%
+45 – 49,44.5 – 49.5,47,1,64,1.5%
+50 – 54,49.5 – 54.5,52,1,65,1.5%
+55 – 59,54.5 – 59.5,57,1,66,1.5%
+Total,,,66,,100.0%
+
+(ii) Histogram and frequency polygon
+Fig. 4: Histogram and frequency polygon (chart image – see Excel file)
+(iii) Cumulative frequency polygon (ogive)
+Fig. 5: Cumulative frequency polygon (chart image – see Excel file)
+(iv) Countries with birth rate ≥ 15
+Below 14.5 = 11 countries → 66 − 11 = 55 countries;  55 ÷ 66 = 83.3%
+"Answer: 83.3% of the countries have a birth rate of 15 or more per 1,000"
+
+Question 4: Theory
+(i) Classification of methods of statistical analysis
+1. Descriptive statistics,"Collecting, organising, summarising and presenting data: tables, graphs, measures of central tendency (mean, median, mode), dispersion (range, variance, standard deviation) and shape."
+   When employed,"When the aim is only to describe the data at hand, e.g. summarising a class's exam scores, census results or monthly sales."
+2. Inferential statistics,"Using a sample to draw conclusions about a population, with a measure of uncertainty: estimation (point and interval), hypothesis testing, regression and correlation."
+   When employed,"When studying the whole population is impossible, too costly, too slow or destructive, e.g. opinion polls, clinical trials, quality control, forecasting."
+   Parametric methods,"z-test, t-test, ANOVA: used for interval/ratio data when the population distribution (usually normal) can be assumed."
+   Non-parametric methods,"Chi-square, sign test, Mann–Whitney, Spearman's rank: used for nominal/ordinal data, small samples, or when distributional assumptions fail."
+By number of variables,"Univariate (one variable), bivariate (relationship between two, e.g. correlation) and multivariate (three or more, e.g. multiple regression)."
+
+"(ii) Need for Statistics in BA Economics, and the role of a statistician"
+Need for Statistics,"Economics is built on data (GDP, inflation, unemployment, prices, household surveys). Statistics is needed to collect, summarise and present such data correctly."
+,"It is the foundation of econometrics: estimating relationships such as demand, consumption and production functions, and testing economic theories against real data."
+,"It supports forecasting (growth, inflation, exchange rates) and evaluating the impact of policies such as taxes, subsidies and interest-rate changes."
+,"It helps in decision-making under uncertainty, and in critically reading economic reports, research papers and official statistics."
+,"Data analysis skills are in high demand in banks, government, research institutes and business, so they improve employability."
+Role of a statistician,"Planning and design: states objectives as testable hypotheses, chooses the sampling/experimental design and sample size, uses randomisation to reduce bias."
+,Data collection: designs questionnaires and instruments; ensures the data are accurate and representative.
+,"Data processing: cleans and organises the data; deals with errors, missing values and outliers."
+,Analysis: chooses and applies appropriate statistical methods and checks their assumptions.
+,"Interpretation and reporting: draws valid conclusions, states confidence/significance and limitations, and presents results clearly for decision-makers."
+
+(iii) Standard deviation vs. coefficient of variation
+Point,Standard deviation (s or σ),Coefficient of variation (CV)
+Type,Absolute measure of dispersion.,Relative measure of dispersion.
+Definition,Square root of the mean squared deviation from the mean: s = √[Σ(x − x̄)² ÷ (n − 1)],Standard deviation as a percentage of the mean: CV = (s ÷ x̄) × 100%
+Units,"Same units as the data (kg, minutes, GH₵).",No units (a pure number / percentage).
+Use,"Spread of one data set, or data sets with the same units and similar means.",Comparing variability/consistency of data sets with different units or very different means; smaller CV = more consistent.
+Property 1,Rigidly defined and based on every observation.,"Unit-free, so it can compare data measured in different units."
+Property 2,"Suitable for further algebraic/statistical work (combined SD, normal distribution, tests); least affected by sampling fluctuations.",Allows fair comparison of consistency between groups with very different means.
+
+
+Question 5: Roller Coasters by Continent
+"Pareto table (descending order, total = 1,455)"
+Continent,Frequency,Percentage,Cumulative %
+North America,643,44.2%,44.2%
+Europe,413,28.4%,72.6%
+Asia,315,21.6%,94.2%
+South America,45,3.1%,97.3%
+Australia,22,1.5%,98.8%
+Africa,17,1.2%,100.0%
+Total,"1,455",100.0%,
+
+Pareto chart
+Fig. 6: Pareto chart (chart image – see Excel file)
+Horizontal bar graph
+Fig. 7: Horizontal bar graph (chart image – see Excel file)
+
+Question 6: Popular Vehicle Colours
+Colour,Percentage,Proportion,Sector angle (°)
+White,19,0.19,68.4
+Silver,18,0.18,64.8
+Black,16,0.16,57.6
+Red,13,0.13,46.8
+Blue,12,0.12,43.2
+Grey,12,0.12,43.2
+Other,10,0.10,36.0
+Total,100,1.00,360.0
+
+Fig. 8: Pie graph of vehicle colours (chart image – see Excel file)
+
+Question 7: Choosing the Appropriate Graph
+,Situation,Most appropriate graph
+a,Number of students enrolled each year over the last 5 years,Time series graph
+b,Budget for the student activities department for a specific year,Pie graph
+c,Means of transportation students use to get to school,Pareto chart
+d,Percentage of votes each of the four candidates received,Pie graph
+e,Record temperatures of a city for the last 30 years,Time series graph
+f,Frequency of each type of crime committed in a city during the year,Pareto chart
+
+
+Question 8: z Scores for Vacation Days
+"μ = 29.4 days, σ = 8.6 days,  z = (x − μ) ÷ σ"
+Country,Days (x),Working,z score
+Canada,26,(26 − 29.4) ÷ 8.6 = −3.4 ÷ 8.6,-0.40
+Italy,42,(42 − 29.4) ÷ 8.6 = 12.6 ÷ 8.6,1.47
+United States,13,(13 − 29.4) ÷ 8.6 = −16.4 ÷ 8.6,-1.91
+
+"Answer: Canada = −0.40,  Italy = 1.47,  United States = −1.91"
+
+Question 9: Highest Relative Position
+,Score,Mean,SD,Working,z score
+a,3.2,4.6,1.5,(3.2 − 4.6) ÷ 1.5,-0.93
+b,630,800,200,(630 − 800) ÷ 200,-0.85
+c,43,50,5,(43 − 50) ÷ 5,-1.40
+
+Answer: (b) — the score of 630 has the highest relative position (largest z = −0.85)
+
+Question 10: Stem-and-Leaf Plot of Students' Weights
+Stem,Leaf,Frequency
+9,0  9,2
+10,4  4  7,3
+11,2  2  3  5  9,5
+12,0  1  1  2  3  3  6  6  7,9
+13,2  2  3  3  4  6  7  8  9,9
+14,0  1  3,3
+15,0  8,2
+Total,,33
+
+Key: 12 | 6 means 126
